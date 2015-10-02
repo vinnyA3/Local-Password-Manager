@@ -4,6 +4,7 @@ Install:
   -Install node if you havent' already done so
   -Navigate to application directory
   -Run this command to install dependencies: npm install
+            - *Note that the dependencies are included in package.json
   
 Run and Use:  
   -To create an account run: node app.js create -n <AccountName (ie.Facebook)> -u<username/email> -p<password> -m<master password(used to encrypt and store your info- Save This!!>
